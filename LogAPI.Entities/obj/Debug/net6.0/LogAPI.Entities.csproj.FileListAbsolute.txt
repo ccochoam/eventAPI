@@ -1,0 +1,14 @@
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\bin\Debug\net6.0\LogAPI.Entities.deps.json
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\bin\Debug\net6.0\LogAPI.Entities.runtimeconfig.json
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\bin\Debug\net6.0\LogAPI.Entities.dll
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\bin\Debug\net6.0\LogAPI.Entities.pdb
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\obj\Debug\net6.0\LogAPI.Entities.csproj.AssemblyReference.cache
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\obj\Debug\net6.0\LogAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\obj\Debug\net6.0\LogAPI.Entities.AssemblyInfoInputs.cache
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\obj\Debug\net6.0\LogAPI.Entities.AssemblyInfo.cs
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\obj\Debug\net6.0\LogAPI.Entities.csproj.CoreCompileInputs.cache
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\obj\Debug\net6.0\LogAPI.Entities.dll
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\obj\Debug\net6.0\refint\LogAPI.Entities.dll
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\obj\Debug\net6.0\LogAPI.Entities.pdb
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\obj\Debug\net6.0\LogAPI.Entities.genruntimeconfig.cache
+D:\proyectos\finaktiva\LogAPI\LogAPI.Entities\obj\Debug\net6.0\ref\LogAPI.Entities.dll

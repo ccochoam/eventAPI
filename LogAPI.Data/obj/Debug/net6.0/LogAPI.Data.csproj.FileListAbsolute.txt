@@ -1,0 +1,17 @@
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\bin\Debug\net6.0\LogAPI.Data.deps.json
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\bin\Debug\net6.0\LogAPI.Data.runtimeconfig.json
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\bin\Debug\net6.0\LogAPI.Data.dll
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\bin\Debug\net6.0\LogAPI.Data.pdb
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\bin\Debug\net6.0\LogAPI.Entities.dll
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\bin\Debug\net6.0\LogAPI.Entities.pdb
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\obj\Debug\net6.0\LogAPI.Data.csproj.AssemblyReference.cache
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\obj\Debug\net6.0\LogAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\obj\Debug\net6.0\LogAPI.Data.AssemblyInfoInputs.cache
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\obj\Debug\net6.0\LogAPI.Data.AssemblyInfo.cs
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\obj\Debug\net6.0\LogAPI.Data.csproj.CoreCompileInputs.cache
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\obj\Debug\net6.0\LogAPI.Data.csproj.CopyComplete
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\obj\Debug\net6.0\LogAPI.Data.dll
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\obj\Debug\net6.0\refint\LogAPI.Data.dll
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\obj\Debug\net6.0\LogAPI.Data.pdb
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\obj\Debug\net6.0\LogAPI.Data.genruntimeconfig.cache
+D:\proyectos\finaktiva\LogAPI\LogAPI.Data\obj\Debug\net6.0\ref\LogAPI.Data.dll
